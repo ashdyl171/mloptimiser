@@ -1,0 +1,7 @@
+Algorithm,CPU_Utilization_Percent,SLA_Compliance_Percent,Energy_Consumption_kWh,Cost_Efficiency_Dollars,Resource_Waste_Percent
+ML_NS_GAII,85.2,98.5,115.3,1.5,8.7
+FirstFit,72.8,95.2,180.4,4.1,28.3
+BestFit,76.4,96.1,170.2,3.2,22.8
+RoundRobin,78.1,94.7,160.8,3.5,25.1
+Random,69.5,92.8,190.6,4.8,32.4
+WorstFit,65.3,91.2,225.8,5.8,42.7
